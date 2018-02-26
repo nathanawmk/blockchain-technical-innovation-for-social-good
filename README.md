@@ -1,0 +1,2 @@
+# blockchain-technical-innovation-for-social-good
+Technical Innovation (E.g., Blockchain) must not only benefit and prosper the selected few in society.  Technical Innovation should benefit the masses in tangible ways.   The decentralised nature also means the benefits should be diffused/enjoyed among the masses and not be limited to the selected few.   This paper stands at the crossroad of that. It explores how blockchain can be leverage to benefit masses. 
