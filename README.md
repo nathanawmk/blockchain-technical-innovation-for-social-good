@@ -9,3 +9,7 @@ This paper stands at that crossroad. It explores how blockchain can be leverage 
 
 References:
 https://www.nytimes.com/2018/01/16/magazine/beyond-the-bitcoin-bubble.html
+
+[This Paper is a WIP]
+
+Nathan Aw
